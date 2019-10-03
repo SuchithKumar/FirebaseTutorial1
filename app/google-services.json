@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141951437369",
+    "firebase_url": "https://friendlychat-be579.firebaseio.com",
+    "project_id": "friendlychat-be579",
+    "storage_bucket": "friendlychat-be579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141951437369:android:24beaead9abd0bc7589be8",
+        "android_client_info": {
+          "package_name": "com.ftpdevelopers.firebasetutorial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141951437369-oqq6takp68qpfdveka0kdf46vlsppvbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftpdevelopers.firebasetutorial1",
+            "certificate_hash": "970effe11ac5bad7f66c3654b36e6fca8c1e2422"
+          }
+        },
+        {
+          "client_id": "141951437369-pcmqkat6cm8clqfpuj2cecjl5ps3bb0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPV7HKAirENV9t9m4Q8IzuryhqCTzCmZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141951437369-pcmqkat6cm8clqfpuj2cecjl5ps3bb0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
